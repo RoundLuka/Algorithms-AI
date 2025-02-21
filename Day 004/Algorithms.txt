@@ -1,3 +1,5 @@
 Learned about the general definition of probability.
 Analyzed the linear search pseudocode, including goto using code and a flowchart.
 Examined the number of comparisons made at each index.
+
+no homework
