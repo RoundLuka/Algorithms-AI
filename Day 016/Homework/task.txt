@@ -1,0 +1,3 @@
+C standard-ში მოძებნეთ და წაიკითხეთ stream
+
+A stream is an abstraction representing a sequence of data that can be read from or written to, typically through input and output operations. It provides a way to interact with data, either from files, devices, or other sources, in a structured manner.
