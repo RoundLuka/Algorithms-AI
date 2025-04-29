@@ -1,0 +1,3 @@
+Discussed streams and other c concepts
+
+read streams and printf in c standard

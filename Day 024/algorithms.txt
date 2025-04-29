@@ -1,0 +1,2 @@
+Couldn't find required book:  Israel Koren, Computer Arithmetic Algorithms, A.K.Peters,
+ 2001
