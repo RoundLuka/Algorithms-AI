@@ -1,0 +1,1 @@
+1) გავიარე polish_calculator-ის კოდი gdb debugger-ში

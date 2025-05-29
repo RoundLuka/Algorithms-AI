@@ -1,0 +1,5 @@
+make mtliani       # Compile normally
+./exercise         # Run it
+
+make debug         # Compile with debug info
+make obieqturi     # Compile using object file
